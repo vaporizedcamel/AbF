@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/saidi01.jpeg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='140.8,32.0' end='616.533333333,537.6' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active'/>
+    </segments>
+</document>

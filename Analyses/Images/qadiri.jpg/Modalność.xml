@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/qadiri.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='82.0,36.0' end='522.0,570.0' features='modalność;wartość-modalności;średnia-modalność' state='active'/>
+      <segment id='1' start='62.0,50.0' end='448.0,560.0' features='modalność;orientacje-kodowania-znaczenia;sensoryczna' state='active'/>
+    </segments>
+</document>

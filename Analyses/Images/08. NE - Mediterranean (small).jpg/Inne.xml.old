@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/08. NE - Mediterranean (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='366.013927577,0' end='458.203342618,40.6072423398' features='inne;motywy-i-tropy;broń,-amunicja' state='active'/>
+      <segment id='1' start='809.401114206,223.888579387' end='1130.4178273,349.551532033' features='inne;motywy-i-tropy;archeologia/zabytki' state='active'/>
+    </segments>
+</document>

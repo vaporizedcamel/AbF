@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1584).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='801.6,240.0' end='1656.0,566.4' features='inne;motywy-i-tropy;statek-kosmiczny' state='active'/>
+      <segment id='1' start='0,490.69637883' end='477.325905292,1357.10306407' features='inne;motywy-i-tropy;historia-bliskiego-wschodu' state='active'/>
+      <segment id='2' start='661.838440111,588.300835655' end='2560,798.217270195' features='inne;motywy-i-tropy;historia-bliskiego-wschodu' state='active'/>
+    </segments>
+</document>

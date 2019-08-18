@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/R-9194888-1478136720-1804.jpeg.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='347.075208914,5.57103064067' end='600,259.052924791' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-podrzędna' state='active'/>
+      <segment id='1' start='37.8830083565,75.208913649' end='334.26183844,446.796657382' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-nadrzędna' state='active'/>
+      <segment id='2' start='345.403899721,211.699164345' end='600,600' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-podrzędna' state='active'/>
+      <segment id='4' start='6.12813370474,462.395543175' end='195.543175487,600' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-podrzędna' state='active'/>
+    </segments>
+</document>

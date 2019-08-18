@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1642).png</imagefile>
+    <complete>33%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='1156.545961,220.61281337' end='2353.20334262,976.044568245' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='ograniczenia paszportów, inwigilacja'/>
+      <segment id='3' start='808.913649025,1435.98885794' end='810.250696379,1437.32590529' features='reprezentacje_konceptualne' state='active'/>
+      <segment id='2' start='808.913649025,1435.98885794' end='810.250696379,1437.32590529' features='reprezentacje_konceptualne' state='active'/>
+    </segments>
+</document>

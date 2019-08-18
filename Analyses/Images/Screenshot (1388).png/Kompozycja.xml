@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1388).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='715.2,360.0' end='1756.8,1248.0' features='kompozycja;wartość-informacyjna;kompozycja-centralna;centrum' state='active'/>
+      <segment id='2' start='1171.2,417.6' end='1612.8,1137.6' features='kompozycja;wyróżnialność;elementy-wyróżniające-się' state='active'/>
+      <segment id='1' start='700.8,552.0' end='1012.8,1065.6' features='kompozycja;wyróżnialność;elementy-wyróżniające-się' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Palestinaut.promo_.shot1_.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='321.1,96.33' end='417.43,175.76' features='interakcja;brak' state='active'/>
+    </segments>
+</document>

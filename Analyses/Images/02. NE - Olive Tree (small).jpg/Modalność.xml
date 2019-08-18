@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/02. NE - Olive Tree (small).jpg</imagefile>
+    <complete>60%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='316.626740947,83.4094707521' end='440.094707521,335.832869081' features='modalność;orientacje-kodowania-znaczenia;historyczna' state='active'/>
+      <segment id='2' start='488.384401114,103.713091922' end='1181,419.242339833' features='modalność;orientacje-kodowania-znaczenia;technologiczna' state='active'/>
+      <segment id='4' start='57.6183844011,248.033426184' end='1152.36768802,476.860724234' features='modalność;wartość-modalności;średnia-modalność' state='active'/>
+      <segment id='3' start='433.509749304,434.60724234' end='434.058495822,435.155988858' features='modalność' state='active'/>
+      <segment id='5' start='238.704735376,478.506963788' end='239.253481894,479.055710306' features='modalność' state='active'/>
+    </segments>
+</document>

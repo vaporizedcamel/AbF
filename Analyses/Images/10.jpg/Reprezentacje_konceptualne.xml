@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/10.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='167.821727019,250.909935005' end='551.590529248,410.91643454' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='barwy flagi i flaga'/>
+    </segments>
+</document>

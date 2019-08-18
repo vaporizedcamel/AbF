@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/07. NE - Food (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='909.821727019,0.0' end='1157.8551532,245.289693593' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-podrzędna' state='active'/>
+      <segment id='2' start='3.29247910864,49.3871866295' end='588.805013928,580.025069638' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-podrzędna' state='active'/>
+      <segment id='1' start='590.451253482,55.9721448468' end='894.456824513,499.359331476' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-nadrzędna' state='active'/>
+      <segment id='3' start='902.688022284,238.704735376' end='1179.80501393,574.537604457' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-podrzędna' state='active'/>
+    </segments>
+</document>

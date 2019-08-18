@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1611).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='655.153203343,96.2674094708' end='949.30362117,434.540389972' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='mikrofon z epoki'/>
+      <segment id='1' start='1477.43732591,691.253481894' end='1664.62395543,820.947075209' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='pomalowane usta'/>
+    </segments>
+</document>

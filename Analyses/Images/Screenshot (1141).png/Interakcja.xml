@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1141).png</imagefile>
+    <complete>66%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='225.6,715.2' end='537.6,998.4' features='interakcja;dystans-personalny;publiczny' state='active'/>
+      <segment id='3' start='291.47632312,738.050139276' end='592.311977716,1008.13370474' features='interakcja;perspektywa' state='active' comment='POV z drona'/>
+      <segment id='1' start='273.6,830.4' end='537.6,988.8' features='interakcja;kontakt;ofiara' state='active'/>
+    </segments>
+</document>

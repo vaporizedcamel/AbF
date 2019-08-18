@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/02. NE - Olive Tree (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='620.08356546,110.846796657' end='824.217270195,402.77994429' features='interakcja;kontakt;ofiara' state='active'/>
+      <segment id='3' start='592.646239554,125.662952646' end='850.557103064,402.77994429' features='interakcja;perspektywa;kąt-poziomy;średnie-zaangażowanie' state='active'/>
+      <segment id='2' start='567.95264624,148.161559889' end='821.473537604,391.805013928' features='interakcja;dystans-personalny;społeczny' state='active'/>
+      <segment id='4' start='537.771587744,156.39275766' end='852.203342618,376.988857939' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='5' start='349.551532033,179.440111421' end='1034.38718663,322.114206128' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+    </segments>
+</document>

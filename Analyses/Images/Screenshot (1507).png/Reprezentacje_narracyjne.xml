@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1507).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='708.635097493,387.743732591' end='1648.57938719,891.810584958' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;procesy-działania;transakcyjne;jednokierunkowe' state='active'/>
+      <segment id='1' start='758.105849582,387.743732591' end='1362.45125348,647.13091922' features='reprezentacje_narracyjne;obiekty;działania;cel' state='active'/>
+      <segment id='2' start='1123.11977716,430.529247911' end='1476.10027855,887.799442897' features='reprezentacje_narracyjne;obiekty;działania;aktor' state='active'/>
+    </segments>
+</document>

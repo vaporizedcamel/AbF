@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1311).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='6' start='290.779510022,176.748329621' end='2271.12100965,1229.63622866' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;procesy-działania;transakcyjne;wielokierunkowe-(interakcja)' state='active'/>
+      <segment id='3' start='484.632516704,176.748329621' end='978.767631774,427.616926503' features='reprezentacje_narracyjne;obiekty;reakcji;reaktor' state='active'/>
+      <segment id='5' start='366.800296956,233.763919822' end='2096.2731997,1007.27542687' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;reakcja-(proces-transakcyjny)' state='active'/>
+      <segment id='2' start='1681.95991091,279.376391982' end='2280.62360802,788.715664439' features='reprezentacje_narracyjne;obiekty;działania;uczestnicy-interakcji' state='active'/>
+      <segment id='4' start='439.020044543,309.784706756' end='1986.04305865,1087.09725316' features='reprezentacje_narracyjne;obiekty;reakcji;fenomen' state='active'/>
+      <segment id='1' start='201.455085375,399.109131403' end='813.422420193,859.034892353' features='reprezentacje_narracyjne;obiekty;działania;uczestnicy-interakcji' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/omar 1.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='270.36,180.24' end='2723.62666667,3004' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='5' start='590.786666667,280.373333333' end='2943.92,2833.77333333' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+      <segment id='3' start='90.12,761.013333333' end='2843.78666667,2503.33333333' features='interakcja;perspektywa;kąt-poziomy;zaangażowanie' state='active'/>
+      <segment id='1' start='490.653333333,831.106666667' end='2493.32,2603.46666667' features='interakcja;kontakt;żądanie' state='active'/>
+      <segment id='2' start='240.32,851.133333333' end='3000,2653.53333333' features='interakcja;dystans-personalny;indywidualny' state='active'/>
+    </segments>
+</document>

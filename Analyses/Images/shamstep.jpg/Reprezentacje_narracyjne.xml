@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/shamstep.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='299.907149489,71.4948932219' end='740.018570102,640.668523677' features='reprezentacje_narracyjne;obiekty;reakcji;fenomen' state='active'/>
+      <segment id='3' start='190.34354689,171.773444754' end='798.514391829,842.154131848' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;reakcja-(proces-transakcyjny)' state='active'/>
+      <segment id='6' start='92.8505106778,389.04363974' end='879.294336119,563.602599814' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;procesy-działania;transakcyjne;jednokierunkowe' state='active'/>
+      <segment id='4' start='117.920148561,417.82729805' end='227.483751161,517.177344475' features='reprezentacje_narracyjne;obiekty;działania;cel' state='active'/>
+      <segment id='5' start='742.804085422,419.684308264' end='842.154131848,509.749303621' features='reprezentacje_narracyjne;obiekty;działania;aktor' state='active'/>
+      <segment id='2' start='99.3500464253,626.740947075' end='907.149489322,763.231197772' features='reprezentacje_narracyjne;obiekty;reakcji;reaktor' state='active'/>
+    </segments>
+</document>

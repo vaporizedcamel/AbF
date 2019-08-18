@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1514).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='418.495821727,534.818941504' end='2101.83844011,1262.17270195' features='reprezentacje_narracyjne;brak' state='active'/>
+      <segment id='1' start='581.615598886,697.938718663' end='1136.4902507,1119.1086351' features='reprezentacje_narracyjne;okoliczności;elementy-towarzyszące' state='active'/>
+    </segments>
+</document>

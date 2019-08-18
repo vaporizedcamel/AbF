@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1190).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='441.6,91.2' end='2304.0,931.2' features='inne;motywy-i-tropy;starożytny-egipt' state='active'/>
+    </segments>
+</document>

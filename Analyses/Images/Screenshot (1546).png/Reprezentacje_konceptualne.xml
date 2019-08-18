@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1546).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='1032.2005571,383.732590529' end='1540.27855153,1199.33147632' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active'/>
+      <segment id='3' start='1958.77437326,470.640668524' end='2343.84401114,925.236768802' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active'/>
+      <segment id='1' start='100.278551532,524.122562674' end='858.384401114,1235.43175487' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active'/>
+    </segments>
+</document>

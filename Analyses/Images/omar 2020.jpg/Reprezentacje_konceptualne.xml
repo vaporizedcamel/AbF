@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/omar 2020.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='11.9907149489,125.357474466' end='232.728876509,580.459610028' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='stoi za nim cała jego dyskografia'/>
+    </segments>
+</document>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/screen-ahmed-pilot.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='159.616908851,31.1809775429' end='305.870541612,562' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='2' start='95.0277410832,154.42007926' end='409.807133421,478.850726552' features='interakcja;dystans-personalny;społeczny' state='active'/>
+      <segment id='1' start='148.480845443,168.525759577' end='351.157199472,449.154557464' features='interakcja;kontakt;żądanie' state='active'/>
+      <segment id='3' start='158.132100396,189.313077939' end='726.071334214,374.914134742' features='interakcja;perspektywa;kąt-poziomy;zaangażowanie' state='active'/>
+      <segment id='5' start='46.7714663144,196.737120211' end='495.183619551,330.36988111' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+    </segments>
+</document>

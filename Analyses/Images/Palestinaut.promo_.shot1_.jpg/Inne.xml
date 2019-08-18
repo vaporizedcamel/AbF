@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Palestinaut.promo_.shot1_.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='190.97,10.14' end='520.52,436.02' features='inne;motywy-i-tropy;strój-astronauty' state='active'/>
+      <segment id='2' start='126.75,207.87' end='393.77,317.72' features='inne;motywy-i-tropy;flaga' state='active'/>
+    </segments>
+</document>

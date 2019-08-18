@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1333).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='254.038997214,314.206128134' end='2282.33983287,1136.4902507' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;procesy-działania;nietransakcyjne;wydarzenie:-cel-widoczny--nie-widać-aktora' state='active'/>
+    </segments>
+</document>

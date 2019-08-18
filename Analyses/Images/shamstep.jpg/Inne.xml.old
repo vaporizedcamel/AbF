@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/shamstep.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='303.333333333,176.666666667' end='710.0,626.666666667' features='inne;motywy-i-tropy;tradycyjne-stroje' state='active'/>
+    </segments>
+</document>

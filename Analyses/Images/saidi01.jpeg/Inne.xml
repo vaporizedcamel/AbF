@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/saidi01.jpeg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='147.2,19.2' end='595.2,595.2' features='inne;motywy-i-tropy;strój-astronauty' state='active'/>
+    </segments>
+</document>

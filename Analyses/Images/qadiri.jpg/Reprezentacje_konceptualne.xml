@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/qadiri.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='190.529247911,186.072423398' end='441.225626741,561.002785515' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='symbole drag queen'/>
+    </segments>
+</document>

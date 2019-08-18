@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/omar 1.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='130.173333333,440.586666667' end='2953.93333333,2883.84' features='reprezentacje_narracyjne;brak' state='active'/>
+    </segments>
+</document>

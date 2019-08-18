@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/02. NE - Olive Tree (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='794.036211699,5.48746518106' end='1169.9275766,402.231197772' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='drzewo oliwne'/>
+      <segment id='3' start='139.930362117,82.3119777159' end='330.3454039,200.292479109' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active'/>
+      <segment id='4' start='260.6545961,216.754874652' end='451.069637883,290.835654596' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active'/>
+      <segment id='5' start='87.7994428969,245.838440111' end='254.069637883,363.818941504' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active'/>
+      <segment id='2' start='183.830083565,329.247910864' end='297.420612813,414.30362117' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='kawa'/>
+    </segments>
+</document>

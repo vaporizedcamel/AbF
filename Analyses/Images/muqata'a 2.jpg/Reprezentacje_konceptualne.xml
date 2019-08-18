@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/muqata&apos;a 2.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='309.306406685,209.22005571' end='460.284122563,537.186629526' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='archeologia'/>
+    </segments>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/03. NE - Jerusalem Floor (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='593,137' end='949,370' features='inne;motywy-i-tropy;historia-i-polityka-bliskiego-wschodu' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/muqata&apos;a 2.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='89.3426183844,68.9860724234' end='458.022284123,330.793871866' features='inne;style;glitch-art' state='active'/>
+      <segment id='1' start='42.63,294.35' end='265.93,462.84' features='inne;motywy-i-tropy;komputery' state='active'/>
+    </segments>
+</document>

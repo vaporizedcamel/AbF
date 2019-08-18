@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/07. NE - Food (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='580.573816156,25.791086351' end='901.590529248,310.04178273' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+      <segment id='3' start='643.679665738,47.7409470752' end='956.465181058,251.874651811' features='interakcja;perspektywa;kąt-poziomy;brak-zaangażowania' state='active'/>
+      <segment id='1' start='542.161559889,51.5821727019' end='843.423398329,250.777158774' features='interakcja;kontakt;ofiara' state='active'/>
+      <segment id='5' start='452.715877437,97.1281337047' end='892.810584958,168.465181058' features='interakcja;perspektywa;kąt-pionowy;władza-widza' state='active'/>
+      <segment id='2' start='649.167130919,101.51810585' end='902.688022284,207.974930362' features='interakcja;dystans-personalny;społeczny' state='active'/>
+    </segments>
+</document>

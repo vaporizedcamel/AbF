@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/klefi.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='32.0,156.8' end='905.6,908.8' features='reprezentacje_narracyjne;okoliczności;elementy-towarzyszące' state='active'/>
+      <segment id='1' start='19.2,166.4' end='960,851.2' features='reprezentacje_narracyjne;brak' state='active'/>
+    </segments>
+</document>

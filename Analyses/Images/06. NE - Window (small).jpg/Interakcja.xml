@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/06. NE - Window (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='575.086350975,9.3286908078' end='902.688022284,339.674094708' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='1' start='642.033426184,10.9749303621' end='876.896935933,279.860724234' features='interakcja;kontakt;ofiara' state='active'/>
+      <segment id='3' start='598.133704735,25.791086351' end='928.479108635,346.807799443' features='interakcja;perspektywa;kąt-poziomy;zaangażowanie' state='active'/>
+      <segment id='5' start='595.389972145,46.643454039' end='985.0,165.721448468' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+      <segment id='2' start='606.364902507,55.9721448468' end='932.86908078,286.445682451' features='interakcja;dystans-personalny;indywidualny' state='active'/>
+    </segments>
+</document>

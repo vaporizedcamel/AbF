@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/08. NE - Mediterranean (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='554.233983287,169.013927577' end='1071.15320334,525.699164345' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;reakcja-(proces-transakcyjny)' state='active'/>
+      <segment id='2' start='352.295264624,224.986072423' end='1078.28690808,400.584958217' features='reprezentacje_narracyjne;obiekty;reakcji;fenomen' state='active'/>
+      <segment id='1' start='978.415041783,333.637883008' end='1081.03064067,440.094707521' features='reprezentacje_narracyjne;obiekty;reakcji;reaktor' state='active'/>
+    </segments>
+</document>

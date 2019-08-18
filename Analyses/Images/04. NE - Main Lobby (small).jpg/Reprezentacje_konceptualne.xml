@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/04. NE - Main Lobby (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='910.919220056,96.0306406685' end='1179.80501393,420.888579387' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='palestyna zamknięta w kolejnych piętrach wieżowca'/>
+    </segments>
+</document>

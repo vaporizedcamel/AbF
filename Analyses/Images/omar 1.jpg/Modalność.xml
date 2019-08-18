@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/omar 1.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='680.906666667,250.333333333' end='2353.13333333,2673.56' features='modalność;orientacje-kodowania-znaczenia;abstrakcyjna' state='active'/>
+      <segment id='2' start='330.44,951.266666667' end='2633.50666667,3004' features='modalność;wartość-modalności;średnia-modalność' state='active'/>
+    </segments>
+</document>

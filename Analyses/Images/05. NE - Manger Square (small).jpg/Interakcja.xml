@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/05. NE - Manger Square (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='754.526462396,104.26183844' end='1078.28690808,456.557103064' features='interakcja;perspektywa;kąt-poziomy;średnie-zaangażowanie' state='active'/>
+      <segment id='1' start='737.515320334,125.114206128' end='931.222841226,585.512534819' features='interakcja;kontakt;ofiara' state='active'/>
+      <segment id='4' start='622.278551532,128.955431755' end='961.403899721,367.660167131' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='2' start='662.337047354,141.576601671' end='1028.89972145,300.164345404' features='interakcja;dystans-personalny;społeczny' state='active'/>
+      <segment id='5' start='610.206128134,201.389972145' end='1119.44289694,302.908077994' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+    </segments>
+</document>

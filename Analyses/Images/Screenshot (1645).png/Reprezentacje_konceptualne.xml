@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1645).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='374.373259053,307.520891365' end='2473.53760446,673.871866295' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='skansen'/>
+    </segments>
+</document>

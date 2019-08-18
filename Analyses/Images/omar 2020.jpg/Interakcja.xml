@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/omar 2020.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='232.843333333,46.96' end='369.81,451.99' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='5' start='62.6133333333,90.0066666667' end='559.606666667,451.99' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+      <segment id='2' start='111.53,142.836666667' end='498.95,587' features='interakcja;dystans-personalny;indywidualny' state='active'/>
+      <segment id='1' start='135.01,168.273333333' end='444.163333333,587' features='interakcja;kontakt;żądanie' state='active'/>
+      <segment id='3' start='9.78333333333,187.84' end='594.826666667,328.72' features='interakcja;perspektywa;kąt-poziomy;zaangażowanie' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1375).png</imagefile>
+    <complete>50%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='475.2,19.2' end='2457.6,532.8' features='inne;motywy-i-tropy;ameryka' state='active'/>
+      <segment id='2' start='1152.0,187.2' end='2308.8,1440' features='inne;motywy-i-tropy;tradycyjne-stroje' state='active'/>
+      <segment id='1' start='2851.2,585.6' end='2856.0,590.4' features='inne' state='active'/>
+      <segment id='4' start='2832.0,1425.6' end='2836.8,1430.4' features='inne' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1651).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='120.0,259.2' end='2390.4,1195.2' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='tradycyjne jedzenie, tradycyjna ceramika'/>
+    </segments>
+</document>

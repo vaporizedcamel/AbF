@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1227).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='566.4,504.0' end='1876.8,1257.6' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;sugestywne' state='active' comment='czerwone światło = zagrożenie'/>
+    </segments>
+</document>

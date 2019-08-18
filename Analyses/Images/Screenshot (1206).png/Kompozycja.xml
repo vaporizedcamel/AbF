@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1206).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='0,0' end='1932.03342618,1069.63788301' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-nadrzędna' state='active'/>
+      <segment id='4' start='1940.05571031,0.0' end='2560,1440' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-podrzędna' state='active'/>
+      <segment id='1' start='871.754874652,949.30362117' end='949.30362117,1113.76044568' features='kompozycja;wyróżnialność;elementy-wyróżniające-się' state='active'/>
+      <segment id='3' start='0,1036.21169916' end='1982.84122563,1440' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-podrzędna' state='active'/>
+    </segments>
+</document>

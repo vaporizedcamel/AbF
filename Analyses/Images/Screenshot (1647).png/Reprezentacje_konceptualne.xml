@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1647).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='336.0,192.0' end='672.0,648.0' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='klucz - powrót z wypędzenia'/>
+      <segment id='2' start='211.2,696.0' end='700.8,950.4' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='karta dotykowa - przeniesienie tożsamości narodowej w przyszłość, klucz już jest tylko symbolem'/>
+    </segments>
+</document>

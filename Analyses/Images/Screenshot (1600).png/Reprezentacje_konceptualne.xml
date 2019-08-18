@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1600).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='124.8,57.6' end='1502.4,1233.6' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='na drugim planie tańczą beduini'/>
+    </segments>
+</document>

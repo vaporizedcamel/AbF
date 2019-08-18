@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1604).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='326.4,393.6' end='2222.4,1377.6' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;sugestywne' state='active' comment='obrazy blendują między sobą = nakładające się na siebie wspomnienia'/>
+      <segment id='1' start='307.2,480.0' end='2222.4,1147.2' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='morze'/>
+    </segments>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1200).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='0,0' end='614.4,849.6' features='kompozycja;wyróżnialność;elementy-wyróżniające-się' state='active'/>
+    </segments>
+</document>

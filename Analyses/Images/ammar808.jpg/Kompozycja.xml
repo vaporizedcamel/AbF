@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/ammar808.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='252.0,296.0' end='940.0,1088.0' features='kompozycja;wartość-informacyjna;kompozycja-centralna;centrum' state='active'/>
+    </segments>
+</document>

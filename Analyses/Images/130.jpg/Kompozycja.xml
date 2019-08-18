@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/130.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='1561.71587744,1269.08077994' end='2562.05013928,2314.20612813' features='kompozycja;wartość-informacyjna;kompozycja-centralna;centrum' state='active'/>
+    </segments>
+</document>

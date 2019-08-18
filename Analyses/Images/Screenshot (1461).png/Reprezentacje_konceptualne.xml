@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1461).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='609.6,398.4' end='1627.2,1252.8' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='ciężarówki = nowe budynki'/>
+    </segments>
+</document>

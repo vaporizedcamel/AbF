@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/rozzma.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='0,249.025069638' end='417.82729805,600' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='pamięć zbiorowa jako waluta'/>
+    </segments>
+</document>

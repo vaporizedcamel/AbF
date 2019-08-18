@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/klefi.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='5' start='147.2,64.0' end='832.0,838.4' features='interakcja;perspektywa;przechylenie;więcej-niż-45-stopni' state='active'/>
+      <segment id='4' start='89.6,160.0' end='864.0,816.0' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='3' start='35.2,198.4' end='896.0,796.8' features='interakcja;perspektywa;kąt-poziomy;średnie-zaangażowanie' state='active'/>
+      <segment id='2' start='105.6,204.8' end='841.6,790.4' features='interakcja;dystans-personalny;indywidualny' state='active'/>
+      <segment id='1' start='115.2,246.4' end='825.6,764.8' features='interakcja;kontakt;ofiara' state='active'/>
+    </segments>
+</document>

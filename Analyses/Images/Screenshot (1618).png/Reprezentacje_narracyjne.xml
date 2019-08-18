@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1618).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='820.947075209,291.47632312' end='1801.00278552,731.364902507' features='reprezentacje_narracyjne;okoliczności;elementy-towarzyszące' state='active'/>
+      <segment id='1' start='390.417827298,347.632311978' end='845.013927577,1419.94428969' features='reprezentacje_narracyjne;obiekty;działania;uczestnicy-interakcji' state='active'/>
+      <segment id='2' start='945.292479109,394.428969359' end='2017.60445682,1440' features='reprezentacje_narracyjne;obiekty;działania;uczestnicy-interakcji' state='active'/>
+      <segment id='3' start='127.019498607,454.596100279' end='2278.32869081,1306.29526462' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;procesy-działania;transakcyjne;wielokierunkowe-(interakcja)' state='active'/>
+    </segments>
+</document>

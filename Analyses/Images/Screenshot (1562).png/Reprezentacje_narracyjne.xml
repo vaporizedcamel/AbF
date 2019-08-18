@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1562).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='501.39275766,173.816155989' end='2295.71030641,554.874651811' features='reprezentacje_narracyjne;obiekty;reakcji;fenomen' state='active'/>
+      <segment id='3' start='554.874651811,227.298050139' end='2029.63788301,1175.26462396' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;reakcja-(proces-transakcyjny)' state='active'/>
+      <segment id='2' start='624.401114206,354.317548747' end='1149.86072423,1266.18384401' features='reprezentacje_narracyjne;obiekty;reakcji;reaktor' state='active'/>
+    </segments>
+</document>

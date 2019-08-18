@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/acid arab djazirat el maghreb.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='0,2.0' end='598.0,600' features='modalność;wartość-modalności;niska-modalność' state='active'/>
+      <segment id='1' start='0,18.0' end='588.0,600' features='modalność;orientacje-kodowania-znaczenia;historyczna' state='active'/>
+    </segments>
+</document>

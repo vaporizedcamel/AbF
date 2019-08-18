@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1550).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='62.4,153.6' end='2544.0,1060.8' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;sugestywne' state='active' comment='kolor i światło po pierwsze wywołują zagrożenie, po drugie związek z przeszłością, po trzecie z ziemią/archeologią, po czwarte nastrój nieprzyjaznej planety'/>
+    </segments>
+</document>

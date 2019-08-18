@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1605).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='340.8,408.0' end='2212.8,993.6' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='flagi = historyczny moment, protest?'/>
+    </segments>
+</document>

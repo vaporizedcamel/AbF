@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1243).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='62.4,388.8' end='2265.6,1286.4' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-nadrzędna' state='active'/>
+      <segment id='1' start='1488.0,868.8' end='1833.6,1190.4' features='kompozycja;wyróżnialność;elementy-wyróżniające-się' state='active'/>
+    </segments>
+</document>

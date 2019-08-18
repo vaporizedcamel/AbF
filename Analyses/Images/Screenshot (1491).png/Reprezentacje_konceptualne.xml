@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1491).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='844.8,81.6' end='1800.0,1387.2' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='człowiek z piasku'/>
+    </segments>
+</document>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Palestinaut.promo_.shot1_.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='67.6,0' end='760,468.13' features='modalność;wartość-modalności;niska-modalność' state='active'/>
+      <segment id='1' start='185.9,0' end='566.15,425.88' features='modalność;orientacje-kodowania-znaczenia;technologiczna' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1580).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='367.008849558,741.663716814' end='2265.7699115,1366.08849558' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;procesy-reakcji-(nietransakcyjne);reakcja-widoczna--niewidoczny-fenomen' state='active'/>
+      <segment id='1' start='1055.15044248,848.707964602' end='1450.19469027,1121.4159292' features='reprezentacje_narracyjne;obiekty;reakcji;reaktor' state='active'/>
+    </segments>
+</document>

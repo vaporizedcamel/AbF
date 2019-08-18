@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1127).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='1651.50550796,209.742962056' end='2018.11505508,1205.58139535' features='inne;motywy-i-tropy;beduin/życie-na-pustyni' state='active'/>
+      <segment id='2' start='1210.86903305,297.870257038' end='1554.56548348,562.252141983' features='inne;motywy-i-tropy;strój-astronauty' state='active'/>
+      <segment id='1' start='306.682986536,382.47246022' end='1466.43818849,1323.67197062' features='inne;motywy-i-tropy;wielbłąd' state='active'/>
+    </segments>
+</document>

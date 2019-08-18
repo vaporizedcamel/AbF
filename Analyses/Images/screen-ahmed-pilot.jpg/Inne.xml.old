@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/screen-ahmed-pilot.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='155.486666667,155.486666667' end='314.72,417.753333333' features='inne;motywy-i-tropy;strój-astronauty' state='active'/>
+    </segments>
+</document>

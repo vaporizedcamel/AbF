@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/screen-ahmed-pilot.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='95.4930362117,128.889507892' end='778.555246054,473.290622098' features='modalność;orientacje-kodowania-znaczenia;naturalistyczna' state='active'/>
+      <segment id='2' start='57.400185701,156.545961003' end='704.456824513,488.945218199' features='modalność;wartość-modalności;średnia-modalność' state='active'/>
+    </segments>
+</document>

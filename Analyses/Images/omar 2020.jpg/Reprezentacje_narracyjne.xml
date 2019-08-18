@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/omar 2020.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='142.836666667,156.533333333' end='516.56,577.216666667' features='reprezentacje_narracyjne;brak' state='active'/>
+    </segments>
+</document>

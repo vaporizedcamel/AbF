@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1584).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='5' start='33.426183844,407.799442897' end='488.022284123,1065.62674095' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+      <segment id='8' start='1349.08077994,441.225626741' end='1736.82451253,1112.42339833' features='interakcja;perspektywa;kąt-poziomy;średnie-zaangażowanie' state='active'/>
+      <segment id='3' start='100.278551532,445.236768802' end='430.529247911,925.236768802' features='interakcja;perspektywa;kąt-poziomy;zaangażowanie' state='active'/>
+      <segment id='2' start='106.963788301,485.348189415' end='383.732590529,955.988857939' features='interakcja;dystans-personalny;indywidualny' state='active'/>
+      <segment id='9' start='1203.34261838,534.818941504' end='1810.36211699,1058.94150418' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='4' start='140.389972145,544.178272981' end='501.39275766,1009.47075209' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='6' start='1382.50696379,578.941504178' end='1796.99164345,1065.62674095' features='interakcja;kontakt;ofiara' state='active'/>
+      <segment id='1' start='53.4818941504,581.615598886' end='330.250696379,815.598885794' features='interakcja;kontakt;żądanie' state='active'/>
+      <segment id='7' start='1279.55431755,672.534818942' end='1990.86350975,891.810584958' features='interakcja;dystans-personalny;publiczny' state='active'/>
+    </segments>
+</document>

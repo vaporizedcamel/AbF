@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1237).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='412.8,168.0' end='1622.4,657.6' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;sugestywne' state='active' comment='niebieskie światło = technologia, intensywność = zagrożenie'/>
+    </segments>
+</document>

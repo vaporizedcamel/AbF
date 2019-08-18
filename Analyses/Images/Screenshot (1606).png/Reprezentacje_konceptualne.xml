@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1606).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='657.6,115.2' end='2016.0,1060.8' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='Oslo, historia'/>
+    </segments>
+</document>

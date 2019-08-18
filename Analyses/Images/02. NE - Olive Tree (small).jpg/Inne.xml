@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/02. NE - Olive Tree (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='755,0' end='1181,573' features='inne;motywy-i-tropy;nasiona-roślin' state='active' comment='drzewo oliwne'/>
+      <segment id='2' start='263,190' end='470,292' features='inne;motywy-i-tropy;miasto' state='active'/>
+    </segments>
+</document>

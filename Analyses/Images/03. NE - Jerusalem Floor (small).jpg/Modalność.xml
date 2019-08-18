@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/03. NE - Jerusalem Floor (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='24.6935933148,57.6183844011' end='942.197771588,537.771587744' features='modalność;wartość-modalności;średnia-modalność' state='active'/>
+      <segment id='2' start='5.48746518106,74.0807799443' end='373.147632312,453.813370474' features='modalność;orientacje-kodowania-znaczenia;technologiczna' state='active'/>
+      <segment id='1' start='501.005571031,252.423398329' end='758.367688022,458.203342618' features='modalność;orientacje-kodowania-znaczenia;historyczna' state='active'/>
+    </segments>
+</document>

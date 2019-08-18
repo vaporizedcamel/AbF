@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/shamstep.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='67.9611650485,62.1359223301' end='935.922330097,881.553398058' features='modalność;orientacje-kodowania-znaczenia;abstrakcyjna' state='active'/>
+      <segment id='2' start='87.3786407767,85.4368932039' end='966.990291262,842.718446602' features='modalność;wartość-modalności;wysoka-modalność' state='active'/>
+    </segments>
+</document>

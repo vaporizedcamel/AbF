@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/02. NE - Olive Tree (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='600.877437326,77.922005571' end='1132.61281337,469.178272981' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;procesy-działania;transakcyjne;jednokierunkowe' state='active'/>
+      <segment id='1' start='634.899721448,104.26183844' end='761.111420613,395.097493036' features='reprezentacje_narracyjne;obiekty;działania;aktor' state='active'/>
+      <segment id='2' start='741.905292479,272.727019499' end='861.532033426,335.832869081' features='reprezentacje_narracyjne;okoliczności;środki' state='active'/>
+      <segment id='3' start='799.52367688,290.835654596' end='1085.96935933,429.668523677' features='reprezentacje_narracyjne;obiekty;działania;cel' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/ammar808.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='53.4818941504,323.119777159' end='252.924791086,873.537604457' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='kosmiczny wymiar itd.'/>
+      <segment id='1' start='272.980501393,353.203342618' end='932.590529248,968.245125348' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active'/>
+    </segments>
+</document>

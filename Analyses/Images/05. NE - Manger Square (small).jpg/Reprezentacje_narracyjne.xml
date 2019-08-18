@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/05. NE - Manger Square (small).jpg</imagefile>
+    <complete>66%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='43.8997214485,19.2061281337' end='700.749303621,565.208913649' features='reprezentacje_narracyjne;okoliczności;tło' state='active'/>
+      <segment id='2' start='627.217270195,105.359331476' end='1006.94986072,591' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;procesy-działania;nietransakcyjne;aktor-obecny--niewidoczny-cel-akcji' state='active'/>
+      <segment id='1' start='587.158774373,582.768802228' end='587.707520891,583.317548747' features='reprezentacje_narracyjne' state='active'/>
+    </segments>
+</document>

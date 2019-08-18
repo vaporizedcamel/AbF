@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/05. NE - Manger Square (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='20.3036211699,6.58495821727' end='437.35097493,435.704735376' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='Palestyna zredukowana do ciekawostki turystycznej'/>
+    </segments>
+</document>

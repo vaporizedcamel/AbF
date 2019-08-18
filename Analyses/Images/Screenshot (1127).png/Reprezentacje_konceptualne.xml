@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1127).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='362.339832869,320.891364903' end='1167.24233983,1179.27576602' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='okręt pustyni'/>
+    </segments>
+</document>

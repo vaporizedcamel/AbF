@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1404).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='52.8,0' end='2560,753.6' features='kompozycja;wartość-informacyjna;polaryzacja;góra/dół;góra-(sacrum)' state='active'/>
+      <segment id='1' start='1070.4,417.6' end='1699.2,1440' features='kompozycja;wartość-informacyjna;kompozycja-centralna;centrum' state='active'/>
+      <segment id='3' start='19.2,753.6' end='2560,1440' features='kompozycja;wartość-informacyjna;polaryzacja;góra/dół;dół-(profanum)' state='active'/>
+    </segments>
+</document>

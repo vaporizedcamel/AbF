@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/przekrój.png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='29.0,153.7' end='613,777.2' features='reprezentacje_narracyjne;brak' state='active'/>
+    </segments>
+</document>

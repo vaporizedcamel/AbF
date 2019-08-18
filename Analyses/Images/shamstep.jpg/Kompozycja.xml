@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/shamstep.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='331.47632312,161.559888579' end='661.095636026,610.027855153' features='kompozycja;wartość-informacyjna;kompozycja-centralna;centrum' state='active'/>
+      <segment id='4' start='675.023212628,396.471680594' end='939.647168059,545.032497679' features='kompozycja;wartość-informacyjna;kompozycja-centralna;peryferia' state='active'/>
+      <segment id='3' start='73.3519034355,410.399257196' end='245.125348189,565.459610028' features='kompozycja;wartość-informacyjna;kompozycja-centralna;peryferia' state='active'/>
+      <segment id='2' start='122.562674095,622.098421541' end='888.579387187,860.724233983' features='kompozycja;wartość-informacyjna;kompozycja-centralna;peryferia' state='active'/>
+    </segments>
+</document>

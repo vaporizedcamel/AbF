@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1597).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='753.6,57.6' end='1953.6,1440' features='inne;motywy-i-tropy;tradycyjne-stroje' state='active'/>
+      <segment id='1' start='801.6,393.6' end='1920.0,763.2' features='inne;motywy-i-tropy;futurystyczne-stroje' state='active'/>
+    </segments>
+</document>

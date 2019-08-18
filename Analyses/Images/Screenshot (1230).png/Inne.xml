@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1230).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='1632.0,681.6' end='2280.0,931.2' features='inne;motywy-i-tropy;e-papierosy' state='active'/>
+      <segment id='3' start='312.0,859.2' end='806.4,1276.8' features='inne;motywy-i-tropy;tradycyjne-stroje' state='active'/>
+      <segment id='1' start='868.8,883.2' end='1910.4,1257.6' features='inne;motywy-i-tropy;szybki-samochód' state='active'/>
+    </segments>
+</document>

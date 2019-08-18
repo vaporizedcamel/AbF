@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1533).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='1041.6,244.8' end='1843.2,974.4' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='granat (krew narodu?)'/>
+    </segments>
+</document>

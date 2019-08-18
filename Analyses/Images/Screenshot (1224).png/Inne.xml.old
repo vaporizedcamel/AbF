@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1224).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='331.2,201.6' end='2371.2,1392.0' features='inne;motywy-i-tropy;tradycyjne-stroje' state='active'/>
+      <segment id='1' start='259.2,566.4' end='628.8,912.0' features='inne;motywy-i-tropy;e-papierosy' state='active'/>
+    </segments>
+</document>

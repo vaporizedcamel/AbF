@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/03. NE - Jerusalem Floor (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='360.526462396,139.930362117' end='548.197771588,370.403899721' features='reprezentacje_narracyjne;obiekty;reakcji;reaktor' state='active'/>
+      <segment id='3' start='600.877437326,158.038997214' end='868.116991643,279.860724234' features='reprezentacje_narracyjne;obiekty;reakcji;fenomen' state='active'/>
+      <segment id='5' start='312.78551532,163.526462396' end='943.844011142,395.097493036' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;reakcja-(proces-transakcyjny)' state='active'/>
+      <segment id='1' start='331.442896936,186.573816156' end='611.30362117,570.69637883' features='reprezentacje_narracyjne;obiekty;reakcji;fenomen' state='active'/>
+      <segment id='2' start='728.186629526,219.498607242' end='933.966573816,488.384401114' features='reprezentacje_narracyjne;obiekty;reakcji;reaktor' state='active'/>
+    </segments>
+</document>

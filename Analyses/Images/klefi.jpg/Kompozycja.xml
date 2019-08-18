@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/klefi.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='80.0,176.0' end='896.0,800.0' features='kompozycja;wartość-informacyjna;kompozycja-centralna;centrum' state='active'/>
+    </segments>
+</document>

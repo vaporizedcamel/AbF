@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/130.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='1890.18384401,803.253481894' end='2427.67688022,1125.74930362' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='odwołanie do obozu w Jordanii'/>
+    </segments>
+</document>

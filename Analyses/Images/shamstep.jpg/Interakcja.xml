@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/shamstep.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='5' start='301.764159703,122.562674095' end='741.875580316,712.163416899' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+      <segment id='1' start='370.473537604,182.915506035' end='621.169916435,444.753946147' features='interakcja;kontakt;ofiara' state='active'/>
+      <segment id='4' start='326.833797586,184.772516249' end='668.52367688,698.235840297' features='interakcja;perspektywa;kąt-pionowy;władza-obrazu' state='active'/>
+      <segment id='2' start='342.618384401,207.985143918' end='649.953574745,461.467038069' features='interakcja;dystans-personalny;indywidualny' state='active'/>
+      <segment id='3' start='291.550603528,224.69823584' end='709.377901578,577.530176416' features='interakcja;perspektywa;kąt-poziomy;zaangażowanie' state='active'/>
+    </segments>
+</document>

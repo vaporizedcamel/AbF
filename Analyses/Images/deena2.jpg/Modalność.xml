@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/deena2.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='152.0,26.0' end='586.0,576.0' features='modalność;wartość-modalności;niska-modalność' state='active'/>
+      <segment id='1' start='72.0,30.0' end='556.0,560.0' features='modalność;orientacje-kodowania-znaczenia;sensoryczna' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/R-9194888-1478136720-1804.jpeg.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='0,0' end='502.0,566.0' features='modalność;orientacje-kodowania-znaczenia;abstrakcyjna' state='active'/>
+      <segment id='2' start='0,12.0' end='548.0,516.0' features='modalność;wartość-modalności;średnia-modalność' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/04. NE - Main Lobby (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='158.038997214,202.487465181' end='879.640668524,462.044568245' features='reprezentacje_narracyjne;brak' state='active'/>
+    </segments>
+</document>

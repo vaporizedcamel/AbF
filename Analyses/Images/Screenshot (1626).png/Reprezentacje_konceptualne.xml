@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1626).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='414.484679666,113.64902507' end='893.147632312,617.715877437' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='palma na green screenie'/>
+      <segment id='1' start='1791.64345404,474.651810585' end='2235.54317549,939.944289694' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='brak twarzy'/>
+    </segments>
+</document>

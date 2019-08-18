@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1657).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='57.6,403.2' end='2560,1123.2' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='mur, apartheid, obóz koncentracyjny'/>
+    </segments>
+</document>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/qadiri.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='97.4930362117,15.0417827298' end='511.420612813,592.757660167' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='3' start='118.662952646,22.2841225627' end='477.994428969,589.972144847' features='interakcja;perspektywa;kąt-poziomy;zaangażowanie' state='active'/>
+      <segment id='2' start='138.161559889,32.8690807799' end='475.208913649,581.615598886' features='interakcja;dystans-personalny;intymny' state='active'/>
+      <segment id='1' start='166.016713092,48.4679665738' end='429.526462396,386.629526462' features='interakcja;kontakt;żądanie' state='active'/>
+    </segments>
+</document>

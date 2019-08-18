@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/10.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='425.28,10.3366666667' end='649.733333333,271.706666667' features='modalność;orientacje-kodowania-znaczenia;naturalistyczna' state='active'/>
+      <segment id='3' start='81.2166666667,47.2533333333' end='575.9,434.14' features='modalność;wartość-modalności;średnia-modalność' state='active'/>
+      <segment id='2' start='184.583333333,50.2066666667' end='482.87,426.756666667' features='modalność;orientacje-kodowania-znaczenia;technologiczna' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/07. NE - Food (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='552.587743733,38.4122562674' end='908.175487465,544.356545961' features='reprezentacje_narracyjne;procesy-narracyjne;agensywne;nieprojekcyjne;procesy-działania;transakcyjne;jednokierunkowe' state='active'/>
+      <segment id='3' start='0.0,53.2284122563' end='609.108635097,580.025069638' features='reprezentacje_narracyjne;okoliczności;elementy-towarzyszące' state='active'/>
+      <segment id='1' start='711.724233983,74.0807799443' end='857.690807799,431.863509749' features='reprezentacje_narracyjne;obiekty;działania;aktor' state='active'/>
+      <segment id='2' start='601.974930362,170.111420613' end='691.420612813,271.629526462' features='reprezentacje_narracyjne;obiekty;działania;cel' state='active'/>
+    </segments>
+</document>

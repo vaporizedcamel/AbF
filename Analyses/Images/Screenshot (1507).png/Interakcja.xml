@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1507).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='1407.91086351,196.545961003' end='1715.43175487,1022.84122563' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='2' start='957.325905292,274.094707521' end='1450.69637883,889.136490251' features='interakcja;dystans-personalny;publiczny' state='active'/>
+      <segment id='1' start='1089.69359331,314.206128134' end='1492.1448468,565.571030641' features='interakcja;kontakt;ofiara' state='active'/>
+      <segment id='3' start='1144.51253482,574.930362117' end='1728.80222841,711.309192201' features='interakcja;perspektywa;kąt-poziomy;średnie-zaangażowanie' state='active'/>
+      <segment id='5' start='204.568245125,986.740947075' end='788.857938719,1093.70473538' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+    </segments>
+</document>

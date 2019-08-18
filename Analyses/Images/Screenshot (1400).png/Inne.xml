@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1400).png</imagefile>
+    <complete>66%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='14.4,19.2' end='2476.8,1300.8' features='inne;motywy-i-tropy;flaga' state='active'/>
+      <segment id='2' start='998.4,441.6' end='1512.0,1180.8' features='inne;motywy-i-tropy;tradycyjne-stroje' state='active'/>
+      <segment id='1' start='1118.4,523.2' end='1123.2,528.0' features='inne' state='active'/>
+    </segments>
+</document>

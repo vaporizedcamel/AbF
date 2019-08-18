@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/zuli 2.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='108.0,84.0' end='512.0,594.0' features='modalność;wartość-modalności;wysoka-modalność' state='active'/>
+      <segment id='1' start='72.0,144.0' end='492.0,598.0' features='modalność;orientacje-kodowania-znaczenia;naturalistyczna' state='active'/>
+    </segments>
+</document>

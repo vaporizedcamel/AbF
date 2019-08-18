@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/10.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='126.993333333,31.01' end='587.713333333,443' features='inne;motywy-i-tropy;strój-astronauty' state='active'/>
+    </segments>
+</document>

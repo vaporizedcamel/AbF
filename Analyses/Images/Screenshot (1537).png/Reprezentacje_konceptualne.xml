@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1537).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='460.8,177.6' end='2366.4,1089.6' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;sugestywne' state='active' comment='kolor zielony znaczący dla Islamu'/>
+    </segments>
+</document>

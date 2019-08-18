@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1121).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='0,168.0' end='897.6,633.6' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active'/>
+      <segment id='1' start='0,168.0' end='307.2,609.6' features='reprezentacje_konceptualne;obiekty;atrybut-dzierżawczy' state='active'/>
+      <segment id='2' start='379.2,225.6' end='859.2,403.2' features='reprezentacje_konceptualne;obiekty;atrybut-dzierżawczy' state='active'/>
+    </segments>
+</document>

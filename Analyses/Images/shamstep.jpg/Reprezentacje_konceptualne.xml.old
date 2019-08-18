@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/shamstep.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='306.406685237,69.6378830084' end='685.236768802,397.400185701' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='księżyc/aureola'/>
+      <segment id='4' start='255.338904364,185.701021356' end='759.517177344,651.810584958' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='bedu/przeszłość'/>
+      <segment id='2' start='98.4215413185,408.542246982' end='204.271123491,519.962859796' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active'/>
+      <segment id='1' start='743.732590529,441.03992572' end='863.509749304,501.39275766' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1578).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='292.8,350.4' end='1248.0,1137.6' features='inne;motywy-i-tropy;diabelski-młyn' state='active'/>
+    </segments>
+</document>

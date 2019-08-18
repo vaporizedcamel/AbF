@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1526).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='1161.6,672.0' end='2275.2,1190.4' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='granat i sosna (??)'/>
+    </segments>
+</document>

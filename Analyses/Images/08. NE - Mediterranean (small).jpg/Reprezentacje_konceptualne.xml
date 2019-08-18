@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/08. NE - Mediterranean (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='335.284122563,1.09749303621' end='440.643454039,51.5821727019' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='symbol opresji'/>
+      <segment id='1' start='218.401114206,265.044568245' end='915.309192201,444.484679666' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='skrawek palestyńskiego dostępu do morza'/>
+    </segments>
+</document>

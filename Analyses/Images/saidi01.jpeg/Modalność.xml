@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/saidi01.jpeg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='140.8,25.6' end='603.733333333,601.6' features='modalność;orientacje-kodowania-znaczenia;abstrakcyjna' state='active'/>
+      <segment id='2' start='42.6666666667,64.0' end='603.733333333,612.266666667' features='modalność;wartość-modalności;średnia-modalność' state='active'/>
+    </segments>
+</document>

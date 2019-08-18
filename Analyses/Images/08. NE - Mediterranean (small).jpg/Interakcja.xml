@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/08. NE - Mediterranean (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='5' start='739.161559889,271.629526462' end='1086.51810585,512.529247911' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+      <segment id='4' start='801.169916435,282.604456825' end='1094.74930362,449.423398329' features='interakcja;perspektywa;kąt-pionowy;władza-widza' state='active'/>
+      <segment id='2' start='898.298050139,307.298050139' end='1132.06406685,454.91086351' features='interakcja;dystans-personalny;publiczny' state='active'/>
+      <segment id='1' start='965.793871866,312.78551532' end='1071.15320334,487.835654596' features='interakcja;kontakt;ofiara' state='active'/>
+      <segment id='3' start='837.935933148,318.272980501' end='1094.74930362,382.47632312' features='interakcja;perspektywa;kąt-poziomy;średnie-zaangażowanie' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/klefi.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='95.1461245235,274.459974587' end='920.965692503,731.893265565' features='inne;style;glitch-art' state='active'/>
+    </segments>
+</document>

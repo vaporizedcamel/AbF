@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1350).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='105.6,172.8' end='955.2,1262.4' features='inne;motywy-i-tropy;przestrzeń-kosmiczna' state='active'/>
+      <segment id='2' start='1315.2,504.0' end='1828.8,854.4' features='inne;motywy-i-tropy;komputery' state='active' comment='gamepad'/>
+    </segments>
+</document>

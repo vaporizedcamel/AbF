@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1639).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='131.030640669,381.058495822' end='1232.75766017,661.838440111' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='mur'/>
+      <segment id='2' start='638.4,456.0' end='2438.4,1219.2' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;sugestywne' state='active' comment='opresyjna kolorystyka bezdusznego korporacyjnego lobby'/>
+    </segments>
+</document>

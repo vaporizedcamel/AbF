@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1118).png</imagefile>
+    <complete>72%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='139,196' end='446,384' features='modalność;orientacje-kodowania-znaczenia;naturalistyczna' state='active'/>
+      <segment id='4' start='1838,264' end='1934,446' features='modalność;znaczniki;kontekstualizacja' state='active'/>
+      <segment id='2' start='1190,268' end='1468,456' features='modalność;znaczniki;saturacja' state='active'/>
+      <segment id='3' start='1531,278' end='1766,470' features='modalność;znaczniki;modulacja-koloru' state='active'/>
+      <segment id='6' start='1555,590' end='1756,796' features='modalność;znaczniki;głębia' state='active'/>
+      <segment id='5' start='1228,600' end='1358,768' features='modalność;znaczniki;dokładność-reprezentacji' state='active'/>
+      <segment id='10' start='1636,724' end='1641,729' features='modalność' state='active'/>
+      <segment id='9' start='1636,724' end='1641,729' features='modalność' state='active'/>
+      <segment id='8' start='1948,724' end='2188,950' features='modalność;znaczniki;jasność-i-kontrast;jaskont0' state='active'/>
+      <segment id='7' start='1396,844' end='1612,1022' features='modalność;znaczniki;iluminacja' state='active'/>
+      <segment id='11' start='1531,1008' end='1536,1012' features='modalność' state='active'/>
+    </segments>
+</document>

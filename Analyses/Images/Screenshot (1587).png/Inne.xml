@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1587).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='310,365' end='2456,784' features='inne;motywy-i-tropy;historia-i-polityka-bliskiego-wschodu' state='active'/>
+    </segments>
+</document>

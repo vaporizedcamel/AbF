@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1246).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='233.983286908,838.328690808' end='2322.45125348,1322.33983287' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='ubrania jak u rosyjskiej mafii'/>
+    </segments>
+</document>

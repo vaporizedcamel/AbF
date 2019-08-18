@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1406).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='796.8,350.4' end='1876.8,1440' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='diaspora w całej galaktyce'/>
+    </segments>
+</document>

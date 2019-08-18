@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1394).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='105.626740947,56.1559888579' end='2489.5821727,1353.09192201' features='modalność;orientacje-kodowania-znaczenia;naturalistyczna' state='active'/>
+      <segment id='2' start='49.4707520891,93.5933147632' end='2456.15598886,1353.09192201' features='modalność;wartość-modalności;wysoka-modalność' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/acid arab djazirat el maghreb.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='157.660167131,65.1810584958' end='350.974930362,241.782729805' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='dinozaury - wiele czasowości na jednej przestrzeni - lub informacja, że to bardzo bardzo dawne czasy'/>
+      <segment id='1' start='0,438.440111421' end='550.974930362,600' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='nakba'/>
+    </segments>
+</document>

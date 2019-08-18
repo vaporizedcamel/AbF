@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1322).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='115.2,283.2' end='2560,1315.2' features='reprezentacje_konceptualne;procesy;procesy-analityczne;nieustrukturyzowane' state='active' comment='są sobie równi'/>
+      <segment id='1' start='52.8,350.4' end='2548.8,1032.0' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1449).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='48.0,48.0' end='2544.0,1320.0' features='inne;motywy-i-tropy;szybki-samochód' state='active'/>
+    </segments>
+</document>

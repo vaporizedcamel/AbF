@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/R-9194888-1478136720-1804.jpeg.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='0,28.0' end='500.0,600' features='interakcja;perspektywa;kąt-poziomy;zaangażowanie' state='active'/>
+      <segment id='3' start='0,38.0' end='414.0,508.0' features='interakcja;kontakt;ofiara' state='active'/>
+      <segment id='5' start='0,78.0' end='580.0,600' features='interakcja;perspektywa;kąt-pionowy;władza-obrazu' state='active'/>
+      <segment id='2' start='0,114.0' end='544.0,448.0' features='interakcja;dystans-personalny;indywidualny' state='active'/>
+      <segment id='1' start='50.0,114.0' end='480.0,582.0' features='interakcja;perspektywa;przechylenie;45-stopni-lub-mniej' state='active'/>
+    </segments>
+</document>

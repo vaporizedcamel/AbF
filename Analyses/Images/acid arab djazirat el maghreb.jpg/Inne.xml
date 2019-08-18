@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/acid arab djazirat el maghreb.jpg</imagefile>
+    <complete>50%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='249,147' end='345,231' features='inne;motywy-i-tropy' state='active' comment='dinozaury'/>
+      <segment id='1' start='0,442' end='539,588' features='inne;motywy-i-tropy;historia-i-polityka-bliskiego-wschodu' state='active'/>
+    </segments>
+</document>

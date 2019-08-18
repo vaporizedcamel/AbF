@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/06. NE - Window (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='75,189' end='657,327' features='inne;motywy-i-tropy;miasto' state='active'/>
+      <segment id='2' start='59.1,332.93' end='1142.6,525.99' features='inne;motywy-i-tropy;mur' state='active'/>
+    </segments>
+</document>

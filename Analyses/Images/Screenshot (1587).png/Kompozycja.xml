@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1587).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='303.509749304,366.35097493' end='1147.18662953,778.161559889' features='kompozycja;wartość-informacyjna;kompozycja-centralna;peryferia' state='active'/>
+      <segment id='3' start='1423.95543175,366.35097493' end='2436.10027855,794.206128134' features='kompozycja;wartość-informacyjna;kompozycja-centralna;peryferia' state='active'/>
+      <segment id='1' start='1180.61281337,390.417827298' end='1390.52924791,731.364902507' features='kompozycja;wartość-informacyjna;kompozycja-centralna;centrum' state='active'/>
+    </segments>
+</document>

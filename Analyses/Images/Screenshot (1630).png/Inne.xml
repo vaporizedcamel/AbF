@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1630).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='182.4,0.0' end='1056.0,1440' features='inne;motywy-i-tropy;archeologia/zabytki' state='active'/>
+    </segments>
+</document>

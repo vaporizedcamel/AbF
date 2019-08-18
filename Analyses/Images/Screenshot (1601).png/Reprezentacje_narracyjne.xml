@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1601).png</imagefile>
+    <complete>33%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='217.938718663,97.6044568245' end='2386.62952646,931.922005571' features='reprezentacje_narracyjne;brak' state='active'/>
+      <segment id='2' start='889.136490251,278.105849582' end='890.473537604,279.442896936' features='reprezentacje_narracyjne' state='active'/>
+      <segment id='1' start='889.136490251,278.105849582' end='890.473537604,279.442896936' features='reprezentacje_narracyjne' state='active'/>
+    </segments>
+</document>

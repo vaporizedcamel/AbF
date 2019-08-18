@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/muqata&apos;a.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='0,0' end='312,290' features='inne;motywy-i-tropy;historia-bliskiego-wschodu' state='active'/>
+      <segment id='2' start='332,10' end='562,210' features='inne;motywy-i-tropy;geografia-bliskiego-wschodu' state='active'/>
+      <segment id='3' start='24.0,312.0' end='600,600' features='inne;style;glitch-art' state='active'/>
+    </segments>
+</document>

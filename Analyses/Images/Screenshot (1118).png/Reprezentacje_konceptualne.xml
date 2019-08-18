@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1118).png</imagefile>
+    <complete>66%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='614.4,187.2' end='1080.0,643.2' features='reprezentacje_konceptualne;obiekty;atrybut-dzierżawczy' state='active'/>
+      <segment id='1' start='144.0,220.8' end='1233.6,1363.2' features='reprezentacje_konceptualne;obiekty;nośnik' state='active'/>
+      <segment id='2' start='1449.6,595.2' end='1454.4,600.0' features='reprezentacje_konceptualne' state='active'/>
+    </segments>
+</document>

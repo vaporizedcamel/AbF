@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1159).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='230.4,24.0' end='868.8,590.4' features='inne;motywy-i-tropy;planeta' state='active'/>
+      <segment id='2' start='1032.0,48.0' end='2064.0,1440' features='inne;motywy-i-tropy;strój-astronauty' state='active'/>
+    </segments>
+</document>

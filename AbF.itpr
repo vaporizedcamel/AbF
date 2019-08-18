@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project>
+  <ctversion>2.6.6</ctversion>
+
+  <mediatype>image</mediatype>
+  <layer>
+    <name>Reprezentacje_narracyjne</name>
+    <type>code-image</type>
+    <segmentation>none</segmentation>
+    <segtype>normal</segtype>
+    <scheme>Reprezentacje_narracyjne.xml</scheme>
+  </layer>
+  <layer>
+    <name>Reprezentacje_konceptualne</name>
+    <type>code-image</type>
+    <segmentation>none</segmentation>
+    <segtype>normal</segtype>
+    <scheme>Reprezentacje_konceptualne.xml</scheme>
+  </layer>
+  <layer>
+    <name>Interakcja</name>
+    <type>code-image</type>
+    <segmentation>none</segmentation>
+    <segtype>normal</segtype>
+    <scheme>Interakcja.xml</scheme>
+  </layer>
+  <layer>
+    <name>Modalność</name>
+    <type>code-image</type>
+    <segmentation>none</segmentation>
+    <segtype>normal</segtype>
+    <scheme>Modalność.xml</scheme>
+  </layer>
+  <layer>
+    <name>Kompozycja</name>
+    <type>code-image</type>
+    <segmentation>none</segmentation>
+    <segtype>normal</segtype>
+    <scheme>Kompozycja.xml</scheme>
+  </layer>
+  <layer>
+    <name>Inne</name>
+    <type>code-image</type>
+    <segmentation>none</segmentation>
+    <segtype>normal</segtype>
+    <scheme>Inne.xml</scheme>
+  </layer>
+</project>

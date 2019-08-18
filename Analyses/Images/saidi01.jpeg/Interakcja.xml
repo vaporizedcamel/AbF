@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/saidi01.jpeg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='5' start='168.533333333,23.4666666667' end='620.8,584.533333333' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+      <segment id='3' start='172.8,29.8666666667' end='631.466666667,578.133333333' features='interakcja;perspektywa;kąt-poziomy;zaangażowanie' state='active'/>
+      <segment id='4' start='151.466666667,59.7333333333' end='610.133333333,492.8' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='2' start='211.2,66.1333333333' end='556.8,535.466666667' features='interakcja;dystans-personalny;indywidualny' state='active'/>
+      <segment id='1' start='273.066666667,209.066666667' end='503.466666667,300.8' features='interakcja;kontakt;żądanie' state='active'/>
+    </segments>
+</document>

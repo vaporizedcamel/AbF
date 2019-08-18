@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/04. NE - Main Lobby (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='916.406685237,100.420612813' end='1181,410.462395543' features='inne;motywy-i-tropy;geografia-bliskiego-wschodu' state='active'/>
+    </segments>
+</document>

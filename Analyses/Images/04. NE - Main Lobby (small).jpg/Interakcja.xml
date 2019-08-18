@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/04. NE - Main Lobby (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='707.334261838,299.066852368' end='832.448467967,478.506963788' features='interakcja;perspektywa;kąt-pionowy;władza-widza' state='active'/>
+      <segment id='2' start='692.51810585,319.370473538' end='851.6545961,488.384401114' features='interakcja;dystans-personalny;publiczny' state='active'/>
+      <segment id='1' start='743.002785515,328.150417827' end='837.935933148,452.715877437' features='interakcja;kontakt;ofiara' state='active'/>
+      <segment id='3' start='649.715877437,341.86908078' end='848.91086351,449.972144847' features='interakcja;perspektywa;kąt-poziomy;średnie-zaangażowanie' state='active'/>
+      <segment id='5' start='548.197771588,359.428969359' end='1011.88857939,408.816155989' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+    </segments>
+</document>

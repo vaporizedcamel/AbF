@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1619).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='728.690807799,185.849582173' end='2038.99721448,1440' features='kompozycja;wartość-informacyjna;kompozycja-centralna;centrum' state='active'/>
+      <segment id='1' start='759.442896936,203.231197772' end='1132.47910864,1440' features='kompozycja;wyróżnialność;elementy-wyróżniające-się' state='active'/>
+      <segment id='2' start='1561.67130919,393.091922006' end='2025.62674095,1415.93314763' features='kompozycja;wyróżnialność;elementy-wyróżniające-się' state='active'/>
+    </segments>
+</document>

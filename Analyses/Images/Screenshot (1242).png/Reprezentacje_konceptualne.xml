@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1242).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='1393.20334262,129.693593315' end='2413.37047354,774.150417827' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;sugestywne' state='active' comment='erotyczny róż'/>
+      <segment id='1' start='1065.62674095,882.451253482' end='1283.56545961,1175.26462396' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='tatuaż kastetu = mafiozo'/>
+    </segments>
+</document>

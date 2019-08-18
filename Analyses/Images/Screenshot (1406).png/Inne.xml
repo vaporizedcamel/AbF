@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1406).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='38.4,52.8' end='1128.0,940.8' features='inne;motywy-i-tropy;przestrzeń-kosmiczna' state='active'/>
+      <segment id='1' start='1272.0,470.4' end='1737.6,892.8' features='inne;motywy-i-tropy;planeta' state='active'/>
+      <segment id='3' start='710.4,907.2' end='1665.6,1440' features='inne;motywy-i-tropy;tradycyjne-stroje' state='active'/>
+    </segments>
+</document>

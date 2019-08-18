@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1372).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='28.8,230.4' end='1372.8,1214.4' features='inne;motywy-i-tropy;pustynia' state='active'/>
+      <segment id='2' start='2020.8,436.8' end='2560,710.4' features='inne;motywy-i-tropy;diabelski-młyn' state='active'/>
+      <segment id='3' start='1372.8,744.0' end='1598.4,926.4' features='inne;motywy-i-tropy;strój-astronauty' state='active'/>
+      <segment id='4' start='1363.2,916.8' end='1660.8,1166.4' features='inne;motywy-i-tropy;wielbłąd' state='active'/>
+    </segments>
+</document>

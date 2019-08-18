@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/jueo3cxvvgazazf0lfck.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='2037.51160631,110.08356546' end='2249.95357474,901.91272052' features='interakcja;perspektywa;kąt-pionowy;równa-relacja' state='active'/>
+      <segment id='1' start='1857.90157846,299.350046425' end='2360.0371402,747.409470752' features='interakcja;kontakt;żądanie' state='active'/>
+      <segment id='2' start='1863.69545032,409.433611885' end='2423.76973073,1031.3091922' features='interakcja;dystans-personalny;indywidualny' state='active'/>
+      <segment id='3' start='1622.28412256,422.95264624' end='2636.21169916,616.081708449' features='interakcja;perspektywa;kąt-poziomy;średnie-zaangażowanie' state='active'/>
+      <segment id='5' start='1713.0547818,480.891364903' end='2545.44103993,782.17270195' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+    </segments>
+</document>

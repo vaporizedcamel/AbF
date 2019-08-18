@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/05. NE - Manger Square (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='68.5933147632,0' end='378.086350975,504.846796657' features='inne;motywy-i-tropy;geografia-bliskiego-wschodu' state='active'/>
+      <segment id='1' start='426.376044568,13.7186629526' end='795.682451253,352.295264624' features='inne;motywy-i-tropy;historia-bliskiego-wschodu' state='active'/>
+    </segments>
+</document>

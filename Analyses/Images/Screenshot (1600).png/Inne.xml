@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1600).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='132.367688022,90.9192200557' end='1346.40668524,1136.4902507' features='inne;motywy-i-tropy;beduin/życie-na-pustyni' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/05. NE - Manger Square (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='0,3.84122562674' end='457.105849582,591' features='kompozycja;wartość-informacyjna;polaryzacja;lewo/prawo;lewo-(znane)' state='active'/>
+      <segment id='5' start='704.04178273,5.48746518106' end='1181,591' features='kompozycja;wartość-informacyjna;polaryzacja;lewo/prawo;prawo-(nowe)' state='active'/>
+      <segment id='2' start='905.980501393,269.43454039' end='1100.2367688,372.598885794' features='kompozycja;wyróżnialność;elementy-wyróżniające-się' state='active'/>
+      <segment id='3' start='476.311977716,289.189415042' end='531.186629526,356.136490251' features='kompozycja;wyróżnialność;elementy-wyróżniające-się' state='active'/>
+      <segment id='1' start='310.04178273,394.548746518' end='424.181058496,479.604456825' features='kompozycja;wyróżnialność;elementy-wyróżniające-się' state='active'/>
+    </segments>
+</document>

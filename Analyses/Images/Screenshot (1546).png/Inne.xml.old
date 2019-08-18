@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1546).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='110.4,388.8' end='902.4,1142.4' features='inne;motywy-i-tropy;historia-bliskiego-wschodu' state='active'/>
+      <segment id='3' start='988.8,460.8' end='1574.4,1228.8' features='inne;motywy-i-tropy;tradycyjne-stroje' state='active'/>
+      <segment id='2' start='2030.4,528.0' end='2366.4,888.0' features='inne;motywy-i-tropy;historia-bliskiego-wschodu' state='active'/>
+    </segments>
+</document>

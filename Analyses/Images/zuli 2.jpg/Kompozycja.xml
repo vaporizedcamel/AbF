@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/zuli 2.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='236,162' end='348,598' features='kompozycja;wartość-informacyjna;kompozycja-centralna;centrum' state='active' comment='Centralna'/>
+    </segments>
+</document>

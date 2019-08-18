@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1597).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='739.2,312.0' end='1891.2,1152.0' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='strój łączy bedu i future'/>
+    </segments>
+</document>

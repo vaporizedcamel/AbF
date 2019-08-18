@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/08. NE - Mediterranean (small).jpg</imagefile>
+    <complete>75%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='350.100278552,0' end='473.568245125,52.1309192201' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-podrzędna' state='active'/>
+      <segment id='3' start='207.426183844,248.582172702' end='865.922005571,554.233983287' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-podrzędna' state='active'/>
+      <segment id='1' start='904.334261838,256.264623955' end='1126.57660167,522.406685237' features='kompozycja;wartość-informacyjna;inny-rodzaj-strefy-semantycznej;strefa-nadrzędna' state='active'/>
+      <segment id='2' start='203.584958217,256.813370474' end='204.133704735,257.362116992' features='kompozycja' state='active'/>
+    </segments>
+</document>

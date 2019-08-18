@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1375).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='768.802228412,53.4818941504' end='1615.15320334,427.855153203' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='nowy jork'/>
+      <segment id='1' start='1072.31197772,425.181058496' end='1464.06685237,989.415041783' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='diaspora'/>
+    </segments>
+</document>

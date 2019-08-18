@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1580).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='168.0,0' end='2472.0,1267.2' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='im głębiej kopie, tym dalsza przeszłość - próbuje się dokopać do pamięci zbiorowej/manipulować nią'/>
+    </segments>
+</document>

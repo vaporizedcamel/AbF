@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/muqata&apos;a 3.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='41.9047619048,110.476190476' end='534.285714286,569.523809524' features='modalność;wartość-modalności;niska-modalność' state='active'/>
+      <segment id='1' start='8.57142857143,142.857142857' end='507.619047619,598.095238095' features='modalność;orientacje-kodowania-znaczenia;historyczna' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/07. NE - Food (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='147.064066852,131.699164345' end='685.933147632,282.604456825' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='palestyńskie jedzenie'/>
+    </segments>
+</document>

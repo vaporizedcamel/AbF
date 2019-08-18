@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1416).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='547.2,412.8' end='1900.8,1224.0' features='interakcja;brak' state='active'/>
+    </segments>
+</document>

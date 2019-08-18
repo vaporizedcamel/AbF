@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1627).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='475.2,86.4' end='1790.4,494.4' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='pogrzebacz...'/>
+    </segments>
+</document>

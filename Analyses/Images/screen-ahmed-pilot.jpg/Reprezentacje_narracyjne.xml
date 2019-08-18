@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/screen-ahmed-pilot.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='185.246053853,166.982358403' end='738.375116063,473.290622098' features='reprezentacje_narracyjne;brak' state='active'/>
+      <segment id='1' start='166.982358403,314.135561746' end='233.775301764,401.279480037' features='reprezentacje_narracyjne;okoliczności;elementy-towarzyszące' state='active'/>
+    </segments>
+</document>

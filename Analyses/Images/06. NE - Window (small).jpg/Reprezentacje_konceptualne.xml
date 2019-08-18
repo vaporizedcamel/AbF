@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/06. NE - Window (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='323.760445682,183.830083565' end='639.289693593,327.601671309' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='prawdziwa jerozolima'/>
+      <segment id='2' start='498.26183844,256.264623955' end='640.38718663,400.036211699' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='konflikt-dziury po pociskach'/>
+      <segment id='3' start='103.164345404,271.629526462' end='254.069637883,489.48189415' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='mur'/>
+    </segments>
+</document>

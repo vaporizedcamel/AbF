@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/acid arab djazirat el maghreb.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='5' start='95.2789699571,284.120171674' end='454.077253219,498.712446352' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+      <segment id='4' start='0,344.206008584' end='541.630901288,554.506437768' features='interakcja;perspektywa;kąt-pionowy;władza-widza' state='active'/>
+      <segment id='3' start='39.4849785408,368.240343348' end='575.965665236,600' features='interakcja;perspektywa;kąt-poziomy;średnie-zaangażowanie' state='active'/>
+      <segment id='2' start='0.858369098712,406.86695279' end='560.515021459,600' features='interakcja;dystans-personalny;publiczny' state='active'/>
+      <segment id='1' start='0,412.875536481' end='551.931330472,597.424892704' features='interakcja;kontakt;ofiara' state='active'/>
+    </segments>
+</document>

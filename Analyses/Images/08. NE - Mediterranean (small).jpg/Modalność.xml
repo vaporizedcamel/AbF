@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/08. NE - Mediterranean (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='12.6211699164,0' end='1142.4902507,577.830083565' features='modalność;wartość-modalności;niska-modalność' state='active'/>
+      <segment id='2' start='30.1810584958,0' end='227.729805014,566.306406685' features='modalność;orientacje-kodowania-znaczenia;historyczna' state='active'/>
+      <segment id='1' start='238.704735376,5.48746518106' end='1117.79665738,268.885793872' features='modalność;orientacje-kodowania-znaczenia;technologiczna' state='active'/>
+    </segments>
+</document>

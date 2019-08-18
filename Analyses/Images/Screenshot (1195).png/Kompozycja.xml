@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1195).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='73.5376044568,16.0445682451' end='2370.58495822,996.100278552' features='kompozycja;wartość-informacyjna;polaryzacja;góra/dół;góra-(sacrum)' state='active'/>
+      <segment id='2' start='77.5487465181,594.986072423' end='2560,1423.95543175' features='kompozycja;wartość-informacyjna;polaryzacja;góra/dół;dół-(profanum)' state='active'/>
+    </segments>
+</document>

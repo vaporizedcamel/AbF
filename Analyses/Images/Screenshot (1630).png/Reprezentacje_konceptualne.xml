@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1630).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='129.6,28.8' end='1084.8,1396.8' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='archeologia, przeszłość'/>
+      <segment id='2' start='1137.6,28.8' end='2560,1420.8' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='green screen, chroma key - symbol wirtualnej przyszłości'/>
+    </segments>
+</document>

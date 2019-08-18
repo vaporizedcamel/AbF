@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/przekrój.png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='101.5,165.3' end='571.3,725.0' features='inne;motywy-i-tropy;satelity-i-obserwatoria' state='active'/>
+    </segments>
+</document>

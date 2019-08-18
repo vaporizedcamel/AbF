@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1398).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='3' start='523.2,326.4' end='1507.2,926.4' features='inne;motywy-i-tropy;statek-kosmiczny' state='active'/>
+      <segment id='2' start='777.6,374.4' end='1473.6,902.4' features='inne;motywy-i-tropy;ameryka' state='active'/>
+      <segment id='1' start='681.6,542.4' end='864.0,806.4' features='inne;motywy-i-tropy;tradycyjne-stroje' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/03. NE - Jerusalem Floor (small).jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='307.298050139,157.490250696' end='591.0,525.150417827' features='interakcja;perspektywa;przechylenie;zero' state='active'/>
+      <segment id='3' start='340.222841226,190.415041783' end='549.844011142,556.428969359' features='interakcja;perspektywa;kąt-pionowy;władza-obrazu' state='active'/>
+      <segment id='1' start='388.512534819,197.0' end='506.493036212,556.977715877' features='interakcja;kontakt;ofiara' state='active'/>
+      <segment id='2' start='366.562674095,205.77994429' end='536.125348189,526.247910864' features='interakcja;dystans-personalny;społeczny' state='active'/>
+    </segments>
+</document>

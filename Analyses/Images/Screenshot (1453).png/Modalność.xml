@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1453).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='1949.41504178,64.1782729805' end='2549.74930362,1326.35097493' features='modalność;orientacje-kodowania-znaczenia;abstrakcyjna' state='active'/>
+      <segment id='3' start='267.409470752,144.401114206' end='2480.22284123,1381.16991643' features='modalność;wartość-modalności;niska-modalność' state='active'/>
+      <segment id='1' start='742.061281337,173.816155989' end='1885.2367688,1266.18384401' features='modalność;orientacje-kodowania-znaczenia;sensoryczna' state='active'/>
+    </segments>
+</document>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/R-9194888-1478136720-1804.jpeg.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='86.0,44.0' end='266.0,294.0' features='reprezentacje_narracyjne;brak' state='active'/>
+    </segments>
+</document>

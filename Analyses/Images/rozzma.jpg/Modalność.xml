@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/rozzma.jpg</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='2' start='124.0,18.0' end='568.0,462.0' features='modalność;wartość-modalności;średnia-modalność' state='active'/>
+      <segment id='1' start='0,92.0' end='510.0,600' features='modalność;orientacje-kodowania-znaczenia;abstrakcyjna' state='active'/>
+    </segments>
+</document>

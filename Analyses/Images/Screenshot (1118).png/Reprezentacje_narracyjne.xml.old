@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1118).png</imagefile>
+    <complete>50%</complete>
+  </header>
+    <segments>
+      <segment id='4' start='1167.24233983,189.860724234' end='2560,1306.29526462' features='reprezentacje_narracyjne;okoliczności;tło' state='active'/>
+      <segment id='2' start='144.401114206,260.724233983' end='1196.65738162,1288.91364903' features='reprezentacje_narracyjne;obiekty;działania;aktor' state='active'/>
+      <segment id='3' start='1331.69916435,628.412256267' end='1333.0362117,629.749303621' features='reprezentacje_narracyjne' state='active'/>
+      <segment id='1' start='512.08913649,849.025069638' end='513.426183844,850.362116992' features='reprezentacje_narracyjne' state='active'/>
+    </segments>
+</document>

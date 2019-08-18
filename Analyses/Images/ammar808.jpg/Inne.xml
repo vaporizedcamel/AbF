@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/ammar808.jpg</imagefile>
+    <complete>57%</complete>
+  </header>
+    <segments>
+      <segment id='5' start='373,209' end='374,210' features='inne' state='active'/>
+      <segment id='4' start='445,298' end='446,299' features='inne' state='active'/>
+      <segment id='2' start='20,328' end='241,1002' features='inne;motywy-i-tropy;przestrzeń-kosmiczna' state='active' comment='i gwiazdozbiory'/>
+      <segment id='1' start='208,328' end='1020,1200' features='inne;motywy-i-tropy;tradycyjne-stroje' state='active'/>
+      <segment id='7' start='204.0,360.0' end='1052.0,1200' features='inne;motywy-i-tropy;futurystyczne-stroje' state='active'/>
+      <segment id='6' start='232.0,504.0' end='924.0,752.0' features='inne;motywy-i-tropy;futurystyczne-urządzenia' state='active'/>
+      <segment id='3' start='484,623' end='485,625' features='inne' state='active'/>
+    </segments>
+</document>

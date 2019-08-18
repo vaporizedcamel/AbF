@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+  <header>
+    <imagefile>Images/Screenshot (1141).png</imagefile>
+    <complete>100%</complete>
+  </header>
+    <segments>
+      <segment id='1' start='46.7966573816,513.426183844' end='705.961002786,1242.11699164' features='reprezentacje_konceptualne;procesy;procesy-symboliczne;atrybutywne' state='active' comment='nadzór drona'/>
+    </segments>
+</document>
